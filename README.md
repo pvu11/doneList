@@ -5,3 +5,4 @@ a list of things that I have achieved during the day without a project
 10 Aug: Finish the project architecture for AR KIT tutorial
 11 Aug: Learn the difference between entity and anchor in UI Kit
 12 Aug: Spring Cleaning 
+13 Aug: Finish Aus visa not any coding today
