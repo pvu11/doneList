@@ -6,3 +6,4 @@ a list of things that I have achieved during the day without a project
 11 Aug: Learn the difference between entity and anchor in UI Kit
 12 Aug: Spring Cleaning 
 13 Aug: Finish Aus visa not any coding today
+14 Aug: Finish tax for Koi Cap not any coding today
