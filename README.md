@@ -7,3 +7,4 @@ a list of things that I have achieved during the day without a project
 12 Aug: Spring Cleaning 
 13 Aug: Finish Aus visa not any coding today
 14 Aug: Finish tax for Koi Cap not any coding today
+15 Aug: Learn let_
