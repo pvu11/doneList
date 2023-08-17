@@ -9,3 +9,4 @@ a list of things that I have achieved during the day without a project
 14 Aug: Finish tax for Koi Cap not any coding today
 15 Aug: Learn let_
 16 Aug: Finish 3 lines of code for configuration example
+17 Aug: Finish anchor example code on AR Kit - very light day
