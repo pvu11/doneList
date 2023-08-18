@@ -10,3 +10,4 @@ a list of things that I have achieved during the day without a project
 15 Aug: Learn let_
 16 Aug: Finish 3 lines of code for configuration example
 17 Aug: Finish anchor example code on AR Kit - very light day
+18 Aug: Brain fog didnt code
